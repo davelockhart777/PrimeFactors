@@ -1,0 +1,9 @@
+c:\users\lockhartd\documents\visual studio 2013\Projects\PrimeNumbers\PrimeNumbers\bin\Debug\PrimeNumbers.exe.config
+c:\users\lockhartd\documents\visual studio 2013\Projects\PrimeNumbers\PrimeNumbers\bin\Debug\PrimeNumbers.exe
+c:\users\lockhartd\documents\visual studio 2013\Projects\PrimeNumbers\PrimeNumbers\bin\Debug\PrimeNumbers.pdb
+c:\users\lockhartd\documents\visual studio 2013\Projects\PrimeNumbers\PrimeNumbers\obj\Debug\PrimeNumbers.exe
+c:\users\lockhartd\documents\visual studio 2013\Projects\PrimeNumbers\PrimeNumbers\obj\Debug\PrimeNumbers.pdb
+c:\users\lockhartd\documents\visual studio 2013\Projects\PrimeNumbers\PrimeNumbers\bin\Debug\myNumbers.txt
+c:\Users\LockhartD\Documents\Visual Studio 2013\Projects\PrimeNumbers\PrimeNumbers\bin\Debug\myBadNumbers.txt
+c:\Users\LockhartD\Documents\Visual Studio 2013\Projects\PrimeNumbers\PrimeNumbers\bin\Debug\myCorruptFile.txt
+c:\Users\LockhartD\Documents\Visual Studio 2013\Projects\PrimeNumbers\PrimeNumbers\obj\Debug\PrimeNumbers.csprojResolveAssemblyReference.cache

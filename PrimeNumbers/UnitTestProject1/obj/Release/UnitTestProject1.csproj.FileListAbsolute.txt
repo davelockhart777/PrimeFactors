@@ -1,0 +1,10 @@
+c:\Users\LockhartD\Documents\Visual Studio 2013\Projects\PrimeNumbers\UnitTestProject1\bin\Release\myBadNumbers.txt
+c:\Users\LockhartD\Documents\Visual Studio 2013\Projects\PrimeNumbers\UnitTestProject1\bin\Release\myCorruptFile.txt
+c:\Users\LockhartD\Documents\Visual Studio 2013\Projects\PrimeNumbers\UnitTestProject1\bin\Release\myNumbers.txt
+c:\Users\LockhartD\Documents\Visual Studio 2013\Projects\PrimeNumbers\UnitTestProject1\bin\Release\UnitTestProject1.dll
+c:\Users\LockhartD\Documents\Visual Studio 2013\Projects\PrimeNumbers\UnitTestProject1\bin\Release\UnitTestProject1.pdb
+c:\Users\LockhartD\Documents\Visual Studio 2013\Projects\PrimeNumbers\UnitTestProject1\bin\Release\PrimeNumbers.exe
+c:\Users\LockhartD\Documents\Visual Studio 2013\Projects\PrimeNumbers\UnitTestProject1\bin\Release\PrimeNumbers.pdb
+c:\Users\LockhartD\Documents\Visual Studio 2013\Projects\PrimeNumbers\UnitTestProject1\obj\Release\UnitTestProject1.csprojResolveAssemblyReference.cache
+c:\Users\LockhartD\Documents\Visual Studio 2013\Projects\PrimeNumbers\UnitTestProject1\obj\Release\UnitTestProject1.dll
+c:\Users\LockhartD\Documents\Visual Studio 2013\Projects\PrimeNumbers\UnitTestProject1\obj\Release\UnitTestProject1.pdb
